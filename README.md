@@ -8,3 +8,11 @@
 </ul></p>
 Implementation of various machine learning algorithms to predict the disease from symptoms given by user.
 
+<h2>REQUIRMENTS:</h2>
+<p>You need to install various libraries :
+  <ul>
+    <li>numpy</li>
+    <li>pandas</li>
+    <li>tkinter</li>
+    <li>sklearn</li>
+  </ul></p>

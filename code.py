@@ -217,7 +217,7 @@ w2.grid(row=2, column=0, columnspan=2, padx=100)
 
 # labels
 NameLb = Label(root, text="Name of the Patient", fg="yellow", bg="black")
-NameLb.grid(row=10, column=1, pady=15, sticky=W)
+NameLb.grid(row=6, column=0, pady=15, sticky=W)
 
 
 S1Lb = Label(root, text="Symptom 1", fg="yellow", bg="black")
